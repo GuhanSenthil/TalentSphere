@@ -101,59 +101,12 @@ npm run dev
 
 ---
 
-## 📸 Screenshots (Add Later)
-
-* Dashboard UI
-* Resume Analyzer
-* Job Matching Results
-* Community Feed
-
----
-
-## 🔥 Key Highlights
-
-* AI-first recruitment approach
-* Feedback-driven resume improvement
-* Combines job portal + professional networking
-* Scalable architecture with Firebase
-
----
-
-## 🚧 Future Improvements
-
-* Full Firestore integration
-* Resume parsing (PDF/DOCX)
-* Real-time notifications
-* Advanced analytics dashboard
-
----
-
-## ⚠️ License
-
-This project is protected under a **Custom Restricted License**.
-
-* ❌ Commercial use is prohibited
-* ❌ Redistribution without permission is not allowed
-* ❌ Claiming this project as your own is strictly prohibited
-
-See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Guhan Senthil**
 Final Year B.Sc Computer Science Project
 
----
 
-## ⭐ Support
-
-If you like this project:
-
-* Star ⭐ the repository
-* Fork 🍴 it
-* Share 🚀 it
 
 ---
 
