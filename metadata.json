@@ -1,0 +1,6 @@
+{
+  "name": "TalentSphere",
+  "description": "An intelligent recruitment platform that uses AI to score candidate resumes against job descriptions, helping HR streamline the hiring process. Candidates can apply for jobs and receive instant feedback on their suitability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
